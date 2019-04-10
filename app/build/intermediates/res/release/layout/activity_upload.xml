@@ -1,0 +1,13 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <fragment
+        android:id="@+id/choose_image_fragment"
+        android:tag="choose_image"
+        android:name="com.imgur.api3example.ChooseImageFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</merge>
+<!-- From: file:/D:/Android_Projects/MISCPlat/app/src/main/res/layout/activity_upload.xml -->

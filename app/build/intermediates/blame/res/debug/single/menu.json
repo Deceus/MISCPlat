@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Helios\\Desktop\\transfer\\Android_Projects\\MISCPlat\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pic_actions.xml",
+        "source": "C:\\Users\\Helios\\Desktop\\transfer\\Android_Projects\\MISCPlat\\app\\src\\main\\res\\menu\\pic_actions.xml"
+    },
+    {
+        "merged": "C:\\Users\\Helios\\Desktop\\transfer\\Android_Projects\\MISCPlat\\app\\build\\intermediates\\res\\merged\\debug\\menu\\neg_actions.xml",
+        "source": "C:\\Users\\Helios\\Desktop\\transfer\\Android_Projects\\MISCPlat\\app\\src\\main\\res\\menu\\neg_actions.xml"
+    },
+    {
+        "merged": "C:\\Users\\Helios\\Desktop\\transfer\\Android_Projects\\MISCPlat\\app\\build\\intermediates\\res\\merged\\debug\\menu\\rep_actions.xml",
+        "source": "C:\\Users\\Helios\\Desktop\\transfer\\Android_Projects\\MISCPlat\\app\\src\\main\\res\\menu\\rep_actions.xml"
+    },
+    {
+        "merged": "C:\\Users\\Helios\\Desktop\\transfer\\Android_Projects\\MISCPlat\\app\\build\\intermediates\\res\\merged\\debug\\menu\\misc_actions.xml",
+        "source": "C:\\Users\\Helios\\Desktop\\transfer\\Android_Projects\\MISCPlat\\app\\src\\main\\res\\menu\\misc_actions.xml"
+    }
+]

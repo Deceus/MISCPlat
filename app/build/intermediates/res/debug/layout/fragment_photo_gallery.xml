@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/gridView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:listSelector="@null"
+    android:numColumns="2"
+    android:scrollbarStyle="insideOverlay"
+    android:scrollbars="none" />
+<!-- From: file:/D:/Android_Projects/MISCPlat/app/src/main/res/layout/fragment_photo_gallery.xml -->
